@@ -1,5 +1,11 @@
-# git_assignment_2
-#Student Information
+# git\_assignment\_2
+
+\#Student Information
 Name: Arshpreet Walia
 RollNo.:2024BCS-011
 Semester:4
+
+Collaborator:Prachi Deepak Guddemane
+
+Contribution:Updated project information
+
