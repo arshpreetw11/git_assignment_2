@@ -2,5 +2,4 @@
 #Student Information
 Name: Arshpreet Walia
 RollNo.:2024BCS-011
-Course:Btech CSE
 Semester:4
